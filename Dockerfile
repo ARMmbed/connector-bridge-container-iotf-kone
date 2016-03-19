@@ -1,4 +1,4 @@
-FROM ubuntu:14.04.3
+FROM ubuntu
 MAINTAINER ARM <doug.anson@arm.com>
 EXPOSE 22/tcp
 EXPOSE 8234/tcp
